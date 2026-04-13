@@ -1,0 +1,24 @@
+# Orchestra Pattern Demo - Git Ignore File
+
+# Output directory - contains pipeline results that shouldn't be tracked
+output/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp output/2_normalized/genus_taxaAsColumns_normalized_fixed.txt output/2_normalized/genus_taxaAsColumns_normalized.txt)"
+    ]
+  }
+}
